@@ -1,0 +1,6 @@
+node_modules
+flats
+
+build
+flatten.sh
+truffle-config.js
